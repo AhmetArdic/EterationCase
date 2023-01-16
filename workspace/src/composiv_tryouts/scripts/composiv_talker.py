@@ -13,8 +13,8 @@ def talker():
     rospy.init_node("composiv_talker", anonymous=True)
     #"composiv_talker" isminde bir düğüm tanımladık
 
-    rate = rospy.Rate(10)
-    #çalışma hızı 10 Hz
+    rate = rospy.Rate(1)
+    #çalışma hızı 1 Hz
 
     max_health = 100 #vurulan kişinin ilk canı
 
