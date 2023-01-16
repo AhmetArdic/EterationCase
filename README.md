@@ -1,4 +1,5 @@
-# Eteration Case
+# Eteration Case - Ahmet Talha ARDIÇ
+## 16.01.2023
 
 [README.pdf](resources/README.pdf)
 
