@@ -14,7 +14,7 @@ Hazırlayan: **Ahmet Talha Ardıç**
 
 (Not: Doküman Notion ile hazırlanmış ve markdown çıktı alınmıştır. Güncellenebilirlik açısından Notion ve markdown tercih edilmiştir.
 
-[https://ahmetardic.notion.site/Eteration-Case-00724dbbf392401dbc585d627d058ea9](README.md))
+[Notion Eteration Case](https://ahmetardic.notion.site/Eteration-Case-00724dbbf392401dbc585d627d058ea9))
 
 # Ön Hazırlık
 
