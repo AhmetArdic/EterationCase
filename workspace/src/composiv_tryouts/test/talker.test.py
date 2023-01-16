@@ -20,6 +20,7 @@ class TalkerTest(unittest.TestCase):
 
         counter = 0
         while not rospy.is_shutdown() and counter < 5 and (not self.talker_ok):
+            #eğet ros açık ve talker'dan mesaj 5 kere doğru alınırsa while döngüsünden çıkar
             sleep(1)
             counter = counter + 1
 
