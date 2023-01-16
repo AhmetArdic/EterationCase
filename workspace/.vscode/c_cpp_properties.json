@@ -6,11 +6,8 @@
         "limitSymbolsToIncludedHeaders": false
       },
       "includePath": [
-        "/home/ahmet/mySimulation_ws/devel/include/**",
+        "${workspaceFolder}/devel/include/**",
         "/opt/ros/noetic/include/**",
-        "/home/ahmet/mySimulation_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
-        "/home/ahmet/mySimulation_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
-        "/home/ahmet/mySimulation_ws/src/turtlebot3/turtlebot3_slam/include/**",
         "/usr/include/**"
       ],
       "name": "ROS",
